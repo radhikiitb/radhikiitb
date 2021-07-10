@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I am Radhik Rammohan 👋
+
+I am a Ph.D Student in the IITB-Monash University Joint Degree Program. I am working on developing solutions to pediatric surgery domain of Robot Assisted surgery systems.
+
+- 🔭 I’m currently working on :-
+    - Developing my coding skills in C++ and Pyhton
+    - Learning Data Structures and Algorithms
+    - Learning ROS and ROS 2 for my Ph.D Project.
 
 <!--
 **radhikiitb/radhikiitb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
