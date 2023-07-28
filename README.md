@@ -1,6 +1,6 @@
 ### Hi I am Radhik Rammohan 👋
 
-I am a Ph.D Student in the IITB-Monash University Joint Degree Program. I am working on developing solutions to pediatric surgery domain of Robot Assisted surgery systems.
+I am a Ph.D Student at the University of Melbourne. I am working on developing solutions to pediatric surgery domain of Robot Assisted surgery systems.
 
 - 🔭 I’m currently working on :-
     - Developing my coding skills in C++ and Python
